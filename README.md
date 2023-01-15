@@ -5,7 +5,7 @@ A quick overview of the first assignment of CS50 Web Programming: a simple clone
 
 
 
-[](https://github.com/Gen1a/CS50W-Project0-Google-Search#assignment-specification)Assignment specification
+[]()Specifications
 ----------------------------------------------------------------------------------------------------------
 
 -   Pages. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
